@@ -7,6 +7,7 @@ const winner = () => {
   let C = 0;
   if (lines[1].includes("C")) C = lines[1].match(/C/g).length;
   const str = A < C ? "Cuti" : A > C ? "Alexis" : "Tie";
+
   return str;
 };
 
