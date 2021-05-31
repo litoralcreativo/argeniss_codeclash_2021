@@ -1,0 +1,16 @@
+/home/gaston/Desktop/argeniss/cs/bin/Debug/net5.0/cs
+/home/gaston/Desktop/argeniss/cs/bin/Debug/net5.0/cs.deps.json
+/home/gaston/Desktop/argeniss/cs/bin/Debug/net5.0/cs.runtimeconfig.json
+/home/gaston/Desktop/argeniss/cs/bin/Debug/net5.0/cs.runtimeconfig.dev.json
+/home/gaston/Desktop/argeniss/cs/bin/Debug/net5.0/cs.dll
+/home/gaston/Desktop/argeniss/cs/bin/Debug/net5.0/ref/cs.dll
+/home/gaston/Desktop/argeniss/cs/bin/Debug/net5.0/cs.pdb
+/home/gaston/Desktop/argeniss/cs/obj/Debug/net5.0/cs.csprojAssemblyReference.cache
+/home/gaston/Desktop/argeniss/cs/obj/Debug/net5.0/cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaston/Desktop/argeniss/cs/obj/Debug/net5.0/cs.AssemblyInfoInputs.cache
+/home/gaston/Desktop/argeniss/cs/obj/Debug/net5.0/cs.AssemblyInfo.cs
+/home/gaston/Desktop/argeniss/cs/obj/Debug/net5.0/cs.csproj.CoreCompileInputs.cache
+/home/gaston/Desktop/argeniss/cs/obj/Debug/net5.0/cs.dll
+/home/gaston/Desktop/argeniss/cs/obj/Debug/net5.0/ref/cs.dll
+/home/gaston/Desktop/argeniss/cs/obj/Debug/net5.0/cs.pdb
+/home/gaston/Desktop/argeniss/cs/obj/Debug/net5.0/cs.genruntimeconfig.cache
